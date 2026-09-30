@@ -13,7 +13,7 @@ A crew making Genshin Impact–themed mods for Slay the Spire 2.
 |---|---|---|
 | [STS2-Navia](https://github.com/SlayTheCircle/STS2-Navia) | 可玩角色「娜维娅」：装填与礼炮轰鸣双机制 | 开发中（0.1.x 测试） |
 
-模组基于 [RitsuLib](https://steamcommunity.com/sharedfiles/filedetails/?id=3747602295) 运行。
+模组基于 [RitsuLib](https://github.com/BAKAOLC/STS2-RitsuLib) 运行（[Steam 工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3747602295)）。
 
 ## 参与贡献
 
