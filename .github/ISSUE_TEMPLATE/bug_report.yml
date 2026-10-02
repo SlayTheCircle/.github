@@ -1,0 +1,36 @@
+name: Bug 报告 / Bug report
+description: 报告模组、工具、文档或组织主页的可复现问题 / Report a reproducible problem
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请先搜索已有问题，并确认当前仓库是受影响项目。具体模组问题请到对应模组仓库；本组织 .github 仓库处理主页与公共配置。
+        安全漏洞请按 SECURITY.md 私密报告。提交日志前移除凭据、个人信息和无关本机路径。
+        Use the affected project's repository. Report vulnerabilities privately and sanitize logs.
+  - type: textarea
+    id: behavior
+    attributes:
+      label: 现象与预期 / Actual and expected behavior
+      description: 发生了什么，正确行为应是什么？文档问题请附页面链接。
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 版本与环境 / Versions and environment
+      description: 模组请填写游戏、模组、RitsuLib 版本、平台及其他启用模组；工具请填写版本、系统及运行命令；网页问题请填写页面链接及浏览器。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤 / Steps to reproduce
+      description: 提供最少的复现步骤；模组问题可补充种子、存档情况、相关牌与回合。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 日志与补充材料 / Logs and additional context
+      description: 提供相关错误片段、截图或其他证据，并说明尚不确定的部分。

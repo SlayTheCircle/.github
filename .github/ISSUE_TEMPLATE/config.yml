@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 项目导航与帮助 / Projects and support
+    url: https://github.com/SlayTheCircle/.github/blob/main/SUPPORT.md
+    about: 找到对应模组或工具的安装、讨论与反馈入口。
+  - name: 安全漏洞报告 / Security reporting
+    url: https://github.com/SlayTheCircle/.github/blob/main/SECURITY.md
+    about: 安全漏洞请通过私密渠道报告，不发布公开利用细节。
