@@ -7,6 +7,7 @@
 | 文件 | 用途 |
 |---|---|
 | [profile/README.md](profile/README.md) | 显示在组织 Overview 的公开主页 |
+| [docs/team.md](docs/team.md) | 成员与跨项目分工 |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | 默认贡献指南 |
 | [SUPPORT.md](SUPPORT.md) | 项目导航与默认支持指引 |
 | [SECURITY.md](SECURITY.md) | 默认安全报告指引 |

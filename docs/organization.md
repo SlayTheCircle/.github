@@ -9,10 +9,10 @@
 | 组织网站 | https://github.com/SlayTheCircle/STS2-Navia（当前主要作品入口；有独立网站后再替换） |
 | .github 简介 | Organization profile and shared community guidelines. 组织主页与公共社区配置。 |
 | Navia 简介 | Navia character mod for Slay the Spire 2. 娜维娅角色模组：装填、礼炮轰鸣、摩拉与支援构筑。Requires RitsuLib. |
-| Charlotte 简介 | Charlotte character mod for Slay the Spire 2 (in development). 夏洛蒂角色模组，开发中，尚无公开发行。 |
+| Charlotte 简介 | Charlotte character mod for Slay the Spire 2. 夏洛蒂角色模组：留影、聚焦与新闻。Requires RitsuLib. |
 | Template 简介 | Slay the Spire 2 mod template: dual-branch build, variant loader, audits and docs. 杀戮尖塔 2 模组开发模板。 |
 
-Navia 的 Homepage 指向工坊；Charlotte 指向自身 README；Template 指向新仓上手文档；.github 指向组织主页。Topics 使用项目类型与生态关键词，角色模组和开发模板各自区分。组织头像采用 [assets/branding/avatar.png](../assets/branding/avatar.png)，来源与设计说明见[视觉资产说明](../assets/branding/README.md)；横幅另行设计。
+Navia 的 Homepage 指向[娜维娅工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3810999936)；Charlotte 指向[夏洛蒂工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3812082715)；Template 指向新仓上手文档；.github 指向组织主页。Topics 使用项目类型与生态关键词，角色模组和开发模板各自区分。组织头像采用 [assets/branding/avatar.png](../assets/branding/avatar.png)，来源与设计说明见[视觉资产说明](../assets/branding/README.md)；横幅另行设计。
 
 ## 上传组织头像
 
@@ -25,7 +25,7 @@ Navia 的 Homepage 指向工坊；Charlotte 指向自身 README；Template 指�
 组织 Owner 在 [组织主页](https://github.com/SlayTheCircle) 选择 **View as: Public**，点击 **pin repositories / Customize pins**，按以下顺序选择并保存：
 
 1. STS2-Navia：已发布作品。
-2. STS2-Charlotte：开发中的作品。
+2. STS2-Charlotte：已发布作品。
 3. STS2-Template：开发者入口。
 
 只置顶这三个公开项目即可；.github 可由主页的帮助与贡献链接进入。保存后用未登录窗口核对展示。GitHub 允许最多六个公开置顶仓库，成员视图与公开视图可以不同；见[官方说明](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)。

@@ -5,7 +5,8 @@
 | 项目 | 文档与安装 | Bug 与建议 | 使用讨论 |
 |---|---|---|---|
 | 娜维娅 | [README](https://github.com/SlayTheCircle/STS2-Navia#readme) · [最新发行](https://github.com/SlayTheCircle/STS2-Navia/releases/latest) | [Issues](https://github.com/SlayTheCircle/STS2-Navia/issues) | [Discussions](https://github.com/SlayTheCircle/STS2-Navia/discussions) · [工坊评论](https://steamcommunity.com/sharedfiles/filedetails/?id=3810999936) |
-| 夏洛蒂 | [README](https://github.com/SlayTheCircle/STS2-Charlotte#readme)，尚无公开发行 | [Issues](https://github.com/SlayTheCircle/STS2-Charlotte/issues) | 按项目 [SUPPORT](https://github.com/SlayTheCircle/STS2-Charlotte/blob/main/SUPPORT.md) 的有效入口参与 |
+| 夏洛蒂 | [README](https://github.com/SlayTheCircle/STS2-Charlotte#readme) · [最新发行](https://github.com/SlayTheCircle/STS2-Charlotte/releases/latest) | [Issues](https://github.com/SlayTheCircle/STS2-Charlotte/issues) | [工坊评论](https://steamcommunity.com/sharedfiles/filedetails/?id=3812082715) |
+| 迪希雅（STS2-Dehya） | 制作中，暂无公开仓库与安装入口 | 项目公开后补充 | 项目公开后补充 |
 | 模组模板 | [README](https://github.com/SlayTheCircle/STS2-Template#readme) · [新仓上手](https://github.com/SlayTheCircle/STS2-Template/blob/main/docs/dev/onboarding.md) | [Issues](https://github.com/SlayTheCircle/STS2-Template/issues) | 项目 Issues |
 | 组织主页与公共配置 | [组织主页](https://github.com/SlayTheCircle) · [仓库说明](https://github.com/SlayTheCircle/.github#readme) | [.github Issues](https://github.com/SlayTheCircle/.github/issues) | .github Issues |
 
